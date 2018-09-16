@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">"Alusine NICE Quiz Game "</string>
+    <string name="no_of_attempts_on_login">No of Attempts on Login</string>
+    <string name="name">Name</string>
+</resources>
